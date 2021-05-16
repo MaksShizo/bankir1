@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/background">
+        <file>resource/Background_Main.png</file>
+        <file>resource/button_Main.png</file>
+        <file>resource/button_Procent.png</file>
+        <file>resource/button_Return.png</file>
+        <file>resource/button_Srok.png</file>
+        <file>resource/Background_Srok.png</file>
+        <file>resource/button_Main2.png</file>
+        <file>resource/button_Srok1.png</file>
+        <file>resource/Background_Procent.png</file>
+        <file>resource/button_Procent1.png</file>
+        <file>resource/Background_Main11.png</file>
+    </qresource>
+</RCC>
